@@ -34,7 +34,7 @@ navigation:
   - title: projects
     url: /projects/
     desc: What have I been working on...
-  - title: about Me
+  - title: about me
     url: /about/
     desc: A little about me...
 
