@@ -20,6 +20,6 @@ permalink: /about/
 {:/}
 -->
 
-My name is Watson and I'm a student @ UT Austin studying Economics. I occasionally [write](articles/) my thoughts and post [project](projects/) that I've worked on. In my free time, I like to read, play basketball and snowboard when I can. If you have any questions, feel free to contact me using the link at the bottom right.
+My name is Watson Na and I'm a student @ UT Austin studying Economics. I occasionally [write](articles/) my thoughts and post [project](projects/) that I've worked on. In my free time, I like to read, play basketball and snowboard when I can. If you have any questions, feel free to contact me using the link at the bottom right.
 
 ---
