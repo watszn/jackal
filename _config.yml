@@ -35,13 +35,10 @@ navigation:
     desc: Just ranting here...
   - title: Projects & Publications
     url: /projects/
-    desc:
-  - title: Work
-    url: /work/
-    desc: Stuffs I hate to do
+    desc: What have I been working on...
   - title: About Me
     url: /about/
-    desc: Learn about me
+    desc: A little about me...
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
